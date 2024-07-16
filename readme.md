@@ -51,13 +51,6 @@ You can contribute to this project:
 - [Reporting bugs](https://github.com/rubensrocha/fastcore/issues)
 - [Submitting your pull-request](https://github.com/rubensrocha/fastcore/pulls)
 
-## Donate
-If you want to contribute to this project, you can send your donation to the wallets below:
-
- - **Payeer**: P66707475
- - **TRX/USDT(TRC20)**: TRCbnUVmQcSkc3ydY8KaH98C7KhXxASYmu
- - **BNB/USDT/BUSD(BEP20)**: 0x3063D79A71Af2F784f87E13Ed29BC808Eb04123f
-
 ## Resources
 
 - FastCore Creator: [vk.com/fastcore](https://vk.com/fastcore)
